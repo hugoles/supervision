@@ -15,11 +15,10 @@
   </p>
 
   <br>
-  [CLICK HERE](https://github.com/hugoles/transit-detection){:target="_blank"}
+  <a href="https://github.com/hugoles/transit-detection" target="_blank">CLICK HERE</a> to redirect link to the project that I made using this repository
 
-  to redirect link to project that i made using this repository
-  
   [notebooks](https://github.com/roboflow/notebooks) | [inference](https://github.com/roboflow/inference) | [autodistill](https://github.com/autodistill/autodistill) | [collect](https://github.com/roboflow/roboflow-collect)
+
 
   <br>
 
