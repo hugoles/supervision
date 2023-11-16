@@ -1,6 +1,9 @@
 <div align="center">
   <p>
     Forked from: roboflow/supervision
+    <br>
+    <a href="https://github.com/hugoles/transit-detection" target="_blank">CLICK HERE</a> to redirect link to the project that I made using this repository
+    <br>
   </p>
 </div>
 
@@ -14,11 +17,7 @@
     </a>
   </p>
 
-  <br>
-  <a href="https://github.com/hugoles/transit-detection" target="_blank">CLICK HERE</a> to redirect link to the project that I made using this repository
 
-
-  <br>
 
   [![version](https://badge.fury.io/py/supervision.svg)](https://badge.fury.io/py/supervision)
   [![downloads](https://img.shields.io/pypi/dm/supervision)](https://pypistats.org/packages/supervision)
