@@ -15,7 +15,9 @@
   </p>
 
   <br>
-  [CLICK HERE](https://github.com/hugoles/transit-detection)to redirect link to project that i made using this repository
+  [CLICK HERE](https://github.com/hugoles/transit-detection){:target="_blank"}
+
+  to redirect link to project that i made using this repository
   
   [notebooks](https://github.com/roboflow/notebooks) | [inference](https://github.com/roboflow/inference) | [autodistill](https://github.com/autodistill/autodistill) | [collect](https://github.com/roboflow/roboflow-collect)
 
