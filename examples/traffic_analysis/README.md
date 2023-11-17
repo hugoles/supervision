@@ -1,15 +1,15 @@
-## 👋 hello
+A implementation that modify the script.py to scripto.py.
 
-This script performs traffic flow analysis using YOLOv8, an object-detection method and ByteTrack, a simple yet effective online multi-object tracking method. It uses the supervision package for multiple tasks such as tracking, annotations, etc.
+Forked from roboflow/supervision/.
 
-https://github.com/roboflow/supervision/assets/26109316/c9436828-9fbf-4c25-ae8c-60e9c81b3900
+This modified script can count, track, annotate, classify, and distinguish different classes of vehicles.
 
 ## 💻 install
 
 - clone repository and navigate to example directory
 
     ```bash
-    git clone https://github.com/roboflow/supervision.git
+    git clone https://github.com/hugoles/supervision.git
     cd supervision/examples/traffic_analysis
     ```
 
