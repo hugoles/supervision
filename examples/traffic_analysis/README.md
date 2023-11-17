@@ -35,7 +35,7 @@ This modified script can count, track, annotate, classify, and distinguish diffe
     pip install -r requirements.txt
     ```
 
-- download `traffic_analysis.pt` and `traffic_analysis.mov` files
+- download `model4.pt` and `output.mov` files
 
     ```bash
     ./setup.sh
@@ -44,10 +44,10 @@ This modified script can count, track, annotate, classify, and distinguish diffe
 ## ⚙️ run
 
 ```bash
-python script.py \
---source_weights_path data/traffic_analysis.pt \
---source_video_path data/traffic_analysis.mov \
+python scripto.py \
+--source_weights_path data/model4.pt \
+--source_video_path data/output.mov \
 --confidence_threshold 0.3 \
 --iou_threshold 0.5 \
---target_video_path data/traffic_analysis_result.mov
+--target_video_path data/output_result.mov
 ```
