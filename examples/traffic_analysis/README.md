@@ -1,6 +1,6 @@
 A implementation that modify the script.py to scripto.py.
 
-Forked from roboflow/supervision/.
+Forked from roboflow/supervision.
 
 This modified script can count, track, annotate, classify, and distinguish different classes of vehicles.
 
