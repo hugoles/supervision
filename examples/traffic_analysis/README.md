@@ -7,7 +7,7 @@ Forked from roboflow/supervision.
 This modified script can count, track, annotate, classify, and distinguish different classes of vehicles.
 
 
-[https://github.com/hugoles/supervision/edit/develop/examples/traffic_analysis/output_result_multiples_vehicles.mov]
+https://github.com/hugoles/supervision/edit/develop/examples/traffic_analysis/output_result_multiples_vehicles
 ## 💻 install
 
 - clone repository and navigate to example directory
